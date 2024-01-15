@@ -1,0 +1,7 @@
+cffi==1.16.0
+cryptography==41.0.7
+fernet==1.0.1
+numpy==1.24.4
+polars==0.20.3
+pyaes==1.6.1
+pycparser==2.21
